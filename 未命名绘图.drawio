@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T06:07:02.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ts4I7Jq0v3sV49FO6rNz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T06:29:01.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UxB6nIj47CNqj3pQh_Lz" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="6580" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="6000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5629" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="6000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -2095,7 +2095,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-211" value="&lt;div&gt;電梯內人數-1==bookedPeople&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3225" y="8815" width="255" height="150" as="geometry" />
+          <mxGeometry x="3830" y="8818.75" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-212" target="q8Cpye9OUda6ezkpqP_z-213">
           <mxGeometry relative="1" as="geometry" />
@@ -2184,51 +2184,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-230" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;將finalFloor設為電梯內第一位的離開樓層&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2955" y="9035" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-232" target="q8Cpye9OUda6ezkpqP_z-242">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-245" value="down" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=#143642;" vertex="1" connectable="0" parent="q8Cpye9OUda6ezkpqP_z-244">
-          <mxGeometry x="-0.7361" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="3572.5" y="9033.75" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-388" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-232" target="q8Cpye9OUda6ezkpqP_z-235">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-232" value="&lt;div&gt;判斷電梯futureDirection&lt;/div&gt;&lt;div&gt;為up或down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2962.5" y="9155" width="255" height="150" as="geometry" />
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-232" target="q8Cpye9OUda6ezkpqP_z-421">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-232" value="&lt;div&gt;判斷電梯futureDirection&lt;/div&gt;&lt;div&gt;是否為up&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3580" y="9153.75" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-235" target="q8Cpye9OUda6ezkpqP_z-236">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-235" value="&lt;div&gt;判斷乘客的離開樓層是否&amp;gt;=finalFloor&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2780" y="9345" width="255" height="150" as="geometry" />
+          <mxGeometry x="3270" y="9353.75" width="255" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-236" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;將finalFloor設為該乘客的離開樓層&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2572.5" y="9545" width="270" height="50" as="geometry" />
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-236" value="電梯方向更改為up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3110" y="9568.75" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-242" target="q8Cpye9OUda6ezkpqP_z-243">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-242" value="&lt;div&gt;判斷乘客的離開樓層是否&amp;lt;=finalFloor&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3162.5" y="9345" width="255" height="150" as="geometry" />
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-242" value="&lt;div&gt;判斷乘客的離開樓層是否&amp;gt;finalFloor&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3792.5" y="9548.75" width="255" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-243" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;將finalFloor設為該乘客的離開樓層&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2955" y="9545" width="270" height="50" as="geometry" />
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-243" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;電梯方向更改為down&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3595" y="9771.25" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-246" target="q8Cpye9OUda6ezkpqP_z-248">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-246" value="&lt;div&gt;判斷&lt;/div&gt;&lt;div&gt;&amp;nbsp;initialPassengerGetOnTheElevator 為true&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; initialPassengerGetOffTheElevator為 true&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4340" y="8535" width="300" height="200" as="geometry" />
+          <mxGeometry x="5955" y="8490" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-248" target="q8Cpye9OUda6ezkpqP_z-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-248" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;將PartBElevatorInfo.endFloor =設為&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;初始乘客的離開樓層&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3985" y="8805" width="270" height="50" as="geometry" />
+          <mxGeometry x="5600" y="8760" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-251" target="q8Cpye9OUda6ezkpqP_z-252">
           <mxGeometry relative="1" as="geometry" />
@@ -2237,85 +2232,140 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-251" value="&lt;div&gt;電梯內人數&amp;lt;bookedPeople&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3992.5" y="8945" width="255" height="150" as="geometry" />
+          <mxGeometry x="5607.5" y="8900" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-252" target="q8Cpye9OUda6ezkpqP_z-270">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-252" value="&lt;div&gt;電梯內人數==bookedPeople&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4640" y="9095" width="255" height="150" as="geometry" />
+          <mxGeometry x="6895" y="9080" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-254" target="q8Cpye9OUda6ezkpqP_z-257">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-254" target="q8Cpye9OUda6ezkpqP_z-266">
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-446" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-254" target="q8Cpye9OUda6ezkpqP_z-445">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-254" value="&lt;div&gt;判斷電梯futureDirection&lt;/div&gt;&lt;div&gt;為up或down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3785" y="9125" width="255" height="150" as="geometry" />
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-254" value="&lt;div&gt;判斷電梯futureDirection&lt;/div&gt;&lt;div&gt;是否為up&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5400" y="9080" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-257" target="q8Cpye9OUda6ezkpqP_z-259">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-257" value="&lt;div&gt;&lt;div&gt;判斷PartBPeopleInfo的&lt;/div&gt;&lt;div&gt;bookTheElevator是否為booked&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; status 是否為 offTheElevator&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3595" y="9315" width="255" height="150" as="geometry" />
+          <mxGeometry x="4950" y="9290" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-259" target="q8Cpye9OUda6ezkpqP_z-260">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4720" y="9730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-259" value="&lt;div&gt;&lt;div&gt;判斷該位乘客的進入樓層是否&amp;lt;=bottom&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3395" y="9525" width="255" height="150" as="geometry" />
+          <mxGeometry x="4750" y="9500" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-460" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-260" target="q8Cpye9OUda6ezkpqP_z-426">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4725" y="9970" />
+              <mxPoint x="4993" y="9970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-260" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Bottom 設為 該乘客的進入樓層&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;BottomIndex 設為該乘客的index;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3230" y="9755" width="270" height="50" as="geometry" />
+          <mxGeometry x="4590" y="9740" width="270" height="55" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-262" target="q8Cpye9OUda6ezkpqP_z-263">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-462" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-262" target="q8Cpye9OUda6ezkpqP_z-426">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5495" y="9690" />
+              <mxPoint x="5495" y="9970" />
+              <mxPoint x="4993" y="9970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-262" value="&lt;div&gt;&lt;div&gt;判斷該位乘客的進入樓層是否&amp;gt;=bottom&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3865" y="9545" width="255" height="150" as="geometry" />
+          <mxGeometry x="5220" y="9615" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-461" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-263" target="q8Cpye9OUda6ezkpqP_z-426">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-263" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;tompost 設為 該乘客的進入樓層&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;tompost&lt;span style=&quot;background-color: initial;&quot;&gt;Index 設為該乘客的index;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3675" y="9765" width="270" height="50" as="geometry" />
+          <mxGeometry x="5030" y="9835" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-266" target="q8Cpye9OUda6ezkpqP_z-262">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-463" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-266" target="q8Cpye9OUda6ezkpqP_z-426">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5710" y="9535" />
+              <mxPoint x="5710" y="9970" />
+              <mxPoint x="4993" y="9970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-266" value="&lt;div&gt;&lt;div&gt;判斷PartBPeopleInfo的&lt;/div&gt;&lt;div&gt;bookTheElevator是否為booked&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; status 是否為 offTheElevator&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4017.5" y="9315" width="255" height="150" as="geometry" />
+          <mxGeometry x="5435" y="9460" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-270" target="q8Cpye9OUda6ezkpqP_z-272">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-270" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;將finalFloor設為電梯內第一位的離開樓層&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4385" y="9305" width="270" height="50" as="geometry" />
+          <mxGeometry x="6640" y="9290" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-272" target="q8Cpye9OUda6ezkpqP_z-275">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-272" target="q8Cpye9OUda6ezkpqP_z-274">
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-466" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-272" target="q8Cpye9OUda6ezkpqP_z-465">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-272" value="&lt;div&gt;判斷電梯的futureDirection&lt;/div&gt;&lt;div&gt;為up或是down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4392.5" y="9445" width="255" height="150" as="geometry" />
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-272" value="&lt;div&gt;判斷電梯的futureDirection&lt;/div&gt;&lt;div&gt;是否&lt;span style=&quot;background-color: initial;&quot;&gt;為up&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="6647.5" y="9430" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-274" target="q8Cpye9OUda6ezkpqP_z-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-470" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-274" target="q8Cpye9OUda6ezkpqP_z-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6940" y="10110" />
+              <mxPoint x="6727" y="10110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-274" value="&lt;div&gt;判斷乘客的離開樓層是否&amp;lt;=finalFloor&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4615" y="9625" width="255" height="150" as="geometry" />
+          <mxGeometry x="6687.5" y="9815" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-275" target="q8Cpye9OUda6ezkpqP_z-278">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-275" value="&lt;div&gt;判斷乘客的離開樓層是否&amp;gt;=finalFloor&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4185" y="9625" width="255" height="150" as="geometry" />
+          <mxGeometry x="6250" y="9610" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-468" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-278" target="q8Cpye9OUda6ezkpqP_z-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6205" y="10110" />
+              <mxPoint x="6727" y="10110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-278" value="finalFloor設為該位乘客的離開樓層" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4005" y="9815" width="270" height="50" as="geometry" />
+          <mxGeometry x="6070" y="9800" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-469" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-281" target="q8Cpye9OUda6ezkpqP_z-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6653" y="10110" />
+              <mxPoint x="6727" y="10110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-281" value="finalFloor設為該位乘客的離開樓層" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4445" y="9815" width="270" height="50" as="geometry" />
+          <mxGeometry x="6517.5" y="10005" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-283" target="q8Cpye9OUda6ezkpqP_z-284">
           <mxGeometry relative="1" as="geometry" />
@@ -2334,74 +2384,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-283" value="&lt;div&gt;判斷PartBElevatorInfo.futureDirection&lt;/div&gt;&lt;div&gt;是否為up或是down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4335" y="10055" width="255" height="150" as="geometry" />
+          <mxGeometry x="6600" y="10185" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-284" target="q8Cpye9OUda6ezkpqP_z-285">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-284" target="q8Cpye9OUda6ezkpqP_z-294">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4325" y="10310" />
-              <mxPoint x="4325" y="10535" />
-              <mxPoint x="4550" y="10535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-284" value="&lt;div&gt;判斷電梯當前樓層是否&amp;lt;finalFloor&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4055" y="10235" width="255" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-285" target="q8Cpye9OUda6ezkpqP_z-294">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3940" y="10535" />
-              <mxPoint x="4550" y="10535" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="6320" y="10365" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-285" value="電梯方向改為up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3805" y="10415" width="270" height="50" as="geometry" />
+          <mxGeometry x="6070" y="10545" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-289" target="q8Cpye9OUda6ezkpqP_z-290">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-289" target="q8Cpye9OUda6ezkpqP_z-294">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4862" y="10310" />
-              <mxPoint x="4862" y="10535" />
-              <mxPoint x="4550" y="10535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-289" value="&lt;div&gt;判斷電梯當前樓層是否&amp;gt;finalFloor&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4587.5" y="10235" width="255" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="q8Cpye9OUda6ezkpqP_z-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-290" target="q8Cpye9OUda6ezkpqP_z-294">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4475" y="10535" />
-              <mxPoint x="4550" y="10535" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="6852.5" y="10365" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-290" value="電梯方向改為down" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4340" y="10425" width="270" height="50" as="geometry" />
+          <mxGeometry x="6605" y="10555" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-294" target="q8Cpye9OUda6ezkpqP_z-295">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-294" value="繪製所經過的時間" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4415" y="10585" width="270" height="50" as="geometry" />
+          <mxGeometry x="6670" y="11210" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-295" target="q8Cpye9OUda6ezkpqP_z-296">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-295" value="&lt;div&gt;判斷PartBNumberOfPeopleArrived&lt;/div&gt;&lt;div&gt;是否==40&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4422.5" y="10725" width="255" height="150" as="geometry" />
+          <mxGeometry x="6677.5" y="11350" width="255" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-296" value="程式結束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="4170" y="10955" width="270" height="50" as="geometry" />
+          <mxGeometry x="6425" y="11580" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-373" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-327" target="q8Cpye9OUda6ezkpqP_z-372">
           <mxGeometry relative="1" as="geometry" />
@@ -2637,6 +2653,99 @@
         </mxCell>
         <mxCell id="q8Cpye9OUda6ezkpqP_z-409" value="電梯方向為down" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2260" y="10505" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-423" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-421" target="q8Cpye9OUda6ezkpqP_z-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-421" value="&lt;div&gt;判斷電梯futureDirection&lt;/div&gt;&lt;div&gt;是否為down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3942.5" y="9343.75" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-424" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-426" target="q8Cpye9OUda6ezkpqP_z-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-451" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-426" target="q8Cpye9OUda6ezkpqP_z-450">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-426" value="&lt;div&gt;PartBElevatorInfo.futureDirection&lt;br&gt;&lt;/div&gt;&lt;div&gt;是否為up&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4865" y="10055" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-429" target="q8Cpye9OUda6ezkpqP_z-432">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-448" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-429" target="q8Cpye9OUda6ezkpqP_z-431">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-429" value="bottom是否&amp;lt;電梯當前樓層" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4490" y="10225" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-449" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-431" target="q8Cpye9OUda6ezkpqP_z-439">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-431" value="&lt;div&gt;buttom&amp;gt;=電梯當前樓層&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4815" y="10410" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-432" value="電梯方向為down" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4160" y="10475" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-439" value="電梯方向為up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4545" y="10595" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-447" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-445" target="q8Cpye9OUda6ezkpqP_z-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-445" target="q8Cpye9OUda6ezkpqP_z-426">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5870" y="9340" />
+              <mxPoint x="5870" y="9970" />
+              <mxPoint x="4993" y="9970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-445" value="&lt;div&gt;判斷電梯futureDirection&lt;/div&gt;&lt;div&gt;是否為down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5595" y="9265" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-459" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-450" target="q8Cpye9OUda6ezkpqP_z-454">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-450" value="&lt;div&gt;PartBElevatorInfo.futureDirection&lt;br&gt;&lt;/div&gt;&lt;div&gt;是否為down&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5620" y="10225" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-454" target="q8Cpye9OUda6ezkpqP_z-457">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-453" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-454" target="q8Cpye9OUda6ezkpqP_z-456">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-454" value="topmost是否&amp;gt;電梯當前樓層" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5400" y="10420" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-455" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-456" target="q8Cpye9OUda6ezkpqP_z-458">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-456" value="&lt;div&gt;topmost&amp;lt;=電梯當前樓層&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5725" y="10605" width="255" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-457" value="電梯方向為up" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5070" y="10670" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-458" value="電梯方向為down" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5455" y="10790" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-467" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-465" target="q8Cpye9OUda6ezkpqP_z-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8Cpye9OUda6ezkpqP_z-465" target="q8Cpye9OUda6ezkpqP_z-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7150" y="9690" />
+              <mxPoint x="7150" y="10110" />
+              <mxPoint x="6727" y="10110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8Cpye9OUda6ezkpqP_z-465" value="&lt;div&gt;判斷電梯的futureDirection&lt;/div&gt;&lt;div&gt;是否&lt;span style=&quot;background-color: initial;&quot;&gt;為down&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="6840" y="9615" width="255" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
